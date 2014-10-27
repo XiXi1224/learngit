@@ -6,4 +6,4 @@ Git tracks changes of files.
 Hi, I study git very happy, I really love this tool.
 Thanks for the guys who develop this tool.
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
