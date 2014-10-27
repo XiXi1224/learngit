@@ -7,3 +7,4 @@ Hi, I study git very happy, I really love this tool.
 Thanks for the guys who develop this tool.
 
 Creating a new branch is quick and simple.
+new branch merge methods.
