@@ -8,3 +8,5 @@ Thanks for the guys who develop this tool.
 
 Creating a new branch is quick and simple.
 new branch merge methods.
+
+Now, I come back, loving coding!
